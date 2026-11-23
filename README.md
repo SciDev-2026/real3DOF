@@ -63,3 +63,20 @@ This beta is distributed as compiled binaries. Source code is **not** published 
 real3DOF is an independent community project by **SCI**, not affiliated with or endorsed by Bigscreen or Valve. Bigscreen Beyond, SteamVR, and other marks belong to their respective owners.
 
 © 2026 SCI. All rights reserved.
+
+<!-- SCI:BEGIN BETA_0_2_DOCS -->
+## Beta 0.2: user manual, compatibility and known issues
+
+**Please launch the real3DOF Control Center first, select and apply the tracking mode, and only then start SteamVR.**
+
+- [English User Manual (PDF, including Double Tap and Expert Mode)](https://github.com/SciDev-2026/real3DOF/releases/download/v0.2.0-beta.1/real3DOF_Beta_0.2_User_Manual_EN.pdf)
+- [Known Issues & Development Roadmap](docs/KNOWN_ISSUES_AND_ROADMAP.md)
+- [HMD Dashboard Button hotfix (English, automatic backup)](https://github.com/SciDev-2026/real3DOF/releases/download/v0.2.0-beta.1/real3DOF_SCI_HMD_Bindings_MergeFix_v2_EN.zip)
+- [Beta 0.2 download / release notes](https://github.com/SciDev-2026/real3DOF/releases/tag/v0.2.0-beta.1)
+
+**Tested hardware:** Bigscreen Beyond **2e** only. Beyond 2 and original Beyond have **not** been tested; experimental use is at your own risk and compatibility is not guaranteed.
+
+**Designed primarily for:** seated **simracing**, **UEVR** games, and VR titles operated with a **gamepad, keyboard or mouse** rather than tracked VR controllers. Virtual Beacon provides rotational 3DoF only, not positional 6DoF tracking.
+
+**Known Beta 0.2 issues:** Double Tap **does not work in Lighthouse mode**; Dashboard/HMD Button may need the separate binding hotfix; the live acceleration trace may show `TRACE unavailable`; and the Virtual Beacon may remain visible when Lighthouse mode is selected. See the [full status and roadmap](docs/KNOWN_ISSUES_AND_ROADMAP.md).
+<!-- SCI:END BETA_0_2_DOCS -->
