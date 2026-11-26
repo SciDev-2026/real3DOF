@@ -1,3 +1,19 @@
+## 🎬 real3DOF – Showcase
+
+See real3DOF in action on the Bigscreen Beyond 2/2e.
+
+- Lighthouse-free 3DoF tracking
+- Integrated VR Dashboard
+- Customizable Double-Tap detection
+- Real-time IMU visualization
+- Automatic drift compensation
+
+[![Watch the real3DOF Showcase](https://img.youtube.com/vi/qmbPRzgM4Og/maxresdefault.jpg)](https://www.youtube.com/watch?v=qmbPRzgM4Og)
+
+▶️ [Watch the showcase on YouTube](https://www.youtube.com/watch?v=qmbPRzgM4Og)
+
+
+
 Disclaimer
 
 real3DOF is experimental third-party software provided "as is", without warranty of any kind.
