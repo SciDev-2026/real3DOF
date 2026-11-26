@@ -1,3 +1,13 @@
+Disclaimer
+
+real3DOF is experimental third-party software provided "as is", without warranty of any kind.
+Installation and use are at your own risk.
+The software is not affiliated with or endorsed by Bigscreen or Valve.
+Virtual Beacon mode is intended for seated VR experiences only.
+
+
+
+
 # real3DOF
 
 **Real stereoscopic 3DoF for Bigscreen Beyond 2 / 2e — without Lighthouse base stations.**
