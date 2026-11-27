@@ -14,13 +14,19 @@ See real3DOF in action on the Bigscreen Beyond 2/2e.
 
 
 
-Disclaimer
+DISCLAIMER & SAFETY NOTICE
 
-real3DOF is experimental third-party software provided "as is", without warranty of any kind.
+real3DOF is a free, non-commercial, experimental hobby project provided "as is", without any guarantee of functionality, stability or compatibility.
 Installation and use are at your own risk.
-The software is not affiliated with or endorsed by Bigscreen or Valve.
-Virtual Beacon mode is intended for seated VR experiences only.
-
+Virtual Beacon mode is intended exclusively for seated VR experiences.
+Virtual Beacon provides rotational tracking (3DoF) only, without positional tracking.
+Do not use Virtual Beacon mode for standing or room-scale VR.
+Do not rely on real3DOF as a safety or boundary protection system.
+Unexpected tracking behaviour, drift or loss of tracking may occur.
+Stop using the software immediately if unexpected tracking behaviour occurs.
+Back up your SteamVR configuration before installation.
+real3DOF is an independent third-party project and is not affiliated with, endorsed by or supported by Bigscreen or Valve.
+Nothing in this disclaimer excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
 
 
 
