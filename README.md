@@ -13,20 +13,61 @@ See real3DOF in action on the Bigscreen Beyond 2/2e.
 ▶️ [Watch the showcase on YouTube](https://www.youtube.com/watch?v=qmbPRzgM4Og)
 
 
+---
 
-DISCLAIMER & SAFETY NOTICE
+## ⚠️ Disclaimer & Safety Notice
 
-real3DOF is a free, non-commercial, experimental hobby project provided "as is", without any guarantee of functionality, stability or compatibility.
-Installation and use are at your own risk.
-Virtual Beacon mode is intended exclusively for seated VR experiences.
-Virtual Beacon provides rotational tracking (3DoF) only, without positional tracking.
-Do not use Virtual Beacon mode for standing or room-scale VR.
-Do not rely on real3DOF as a safety or boundary protection system.
-Unexpected tracking behaviour, drift or loss of tracking may occur.
-Stop using the software immediately if unexpected tracking behaviour occurs.
-Back up your SteamVR configuration before installation.
-real3DOF is an independent third-party project and is not affiliated with, endorsed by or supported by Bigscreen or Valve.
+### 📋 General Disclaimer
+
+**real3DOF** is a free, non-commercial and experimental hobby project developed independently for the VR community.
+
+The software is provided **"AS IS"**, without any express or implied warranty, including but not limited to functionality, stability, compatibility or fitness for a particular purpose, to the extent permitted by applicable law.
+
+> [!WARNING]
+> **Installation and use of real3DOF are at your own risk.**
+>
+> Experimental software may contain bugs, cause unexpected behaviour or interfere with existing SteamVR configurations.
+
+### 🛡️ Safety Instructions
+
+> [!CAUTION]
+> **Virtual Beacon (3DoF) mode is intended exclusively for seated VR experiences.**
+>
+> It provides rotational head tracking only and does not provide positional tracking (6DoF).
+
+- Do not use Virtual Beacon mode for standing, walking or room-scale VR.
+- Do not rely on real3DOF as a safety or boundary protection system.
+- Always ensure that your physical surroundings are safe and free of obstacles.
+- Unexpected tracking behaviour, orientation drift or loss of tracking may occur.
+- If you experience unexpected movement, disorientation, dizziness or discomfort, stop using the software immediately and safely remove your headset.
+- Restore Lighthouse tracking before returning to standing or room-scale VR.
+
+### 🔧 System Compatibility
+
+real3DOF interacts directly with SteamVR, headset sensors and tracking configurations.
+
+Compatibility with all hardware configurations, operating systems, SteamVR versions and third-party applications cannot be guaranteed.
+
+> [!IMPORTANT]
+> Back up your existing SteamVR configuration before installing or using real3DOF.
+
+Future SteamVR or headset firmware updates may affect the functionality of this software.
+
+### ⚖️ Limitation of Liability
+
+To the maximum extent permitted by applicable law, the developer shall not be liable for damages, data loss, system interruptions or other consequences arising from the installation, use or inability to use this software.
+
 Nothing in this disclaimer excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
+
+### 🤝 Independent Community Project
+
+real3DOF is an independent third-party hobby project.
+
+It is **not affiliated with, endorsed by, sponsored by or officially supported by Bigscreen or Valve Corporation.**
+
+All third-party trademarks and product names belong to their respective owners.
+
+---
 
 
 
